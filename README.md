@@ -1,6 +1,4 @@
-# NFL_Rookie_Running_Back_Yards
-Created a Linear Regression Model to Predict Total Yards Rushing and Receiving of Rookie NFL Running Backs
-# **Metis Project 2 - Summer 2020**
+# **Metis Project 2: Predicting Total Yards Rushing and Receiving of Rookie NFL Running Backs - Summer 2020**
 
 ## About:
 
