@@ -28,17 +28,17 @@ In this project, you will find the code files I used to scrape the data, clean t
 
 ### Slideshow PDF:
 
-- Lindsay_project_3.pdf
+[Lindsay_project_3.pdf](https://github.com/lindsayread/NFL_Rookie_Running_Back_Yards/blob/master/Lindsay_Project_3.pdf)
 
 ### Code Files:
 
 1. Code file for scraping data and creating initial DataFrame:
 
-Proj2DataFrame.ipynb
+[Proj2DataFrame.ipynb](https://github.com/lindsayread/NFL_Rookie_Running_Back_Yards/blob/master/Proj2DataFrame.ipynb)
 
 2. Code file for EDA and Linear Regression Modeling:
 
-EDA_and_modelling.ipynb
+[EDA_and_modelling.ipynb](https://github.com/lindsayread/NFL_Rookie_Running_Back_Yards/blob/master/EDA_and_modelling.ipynb)
 
 ## Data:
 
